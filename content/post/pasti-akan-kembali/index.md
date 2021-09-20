@@ -5,7 +5,7 @@ date: 2021-09-20T13:36:03.947Z
 draft: false
 featured: false
 image:
-  filename: bbuq8240.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: true
 ---
