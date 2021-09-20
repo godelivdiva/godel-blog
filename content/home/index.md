@@ -1,7 +1,9 @@
 ---
-# Homepage
 type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
+widget_id: godel-pets
 headless: true
+weight: 40
+title: GOdeliva
+subtitle: pets
 ---
