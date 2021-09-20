@@ -15,4 +15,4 @@ Dinamakan demikian, karna Noir (re : noa) bewarna hitam.
 
 Waktu itu kira-kira dia berusia 3 bulan saat ditemukan terjatuh di dalam selokan. Badannya penuh kutu dan kotor. 
 
-Sekarang, Noir sudah berusia 2 tahun.
+Sekarang, Noir sudah berusia 2 tahun dengan berat 16kg.
