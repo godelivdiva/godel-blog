@@ -5,7 +5,7 @@ date: 2021-09-20T11:38:02.653Z
 draft: false
 featured: false
 image:
-  filename: img_20210906_093535.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
