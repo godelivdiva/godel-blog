@@ -2,8 +2,7 @@
 title: Godeliva Divayu Kamaputri
 role: Oracle Programmer
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "Familiar with Oracle E-Business Suite and Oracle Applications : 12.0.6. "
 social:
   - display:
       header: false
